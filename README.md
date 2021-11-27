@@ -6,6 +6,9 @@
 
 Track employees using a command line application
 
+### Demo
+![Demo](https://github.com/xaker00/employee-tracker/raw/master/employee-tracker.gif)
+
 **Technologies:**
 * NodeJS
 * MYSQL
